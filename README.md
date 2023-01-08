@@ -20,6 +20,8 @@ To link these ace perms with a discord role you are required to have,
 ```
 The "autoreports" should be linked with the staff team role so staff can see F5 Reports!
 
+# Menu Title & Language
+If you would like to edit the text that is in the menu please do so in the locales.lua file
 
 ## For Chat Tags You Need Have Badger_Discord_API, You Need To Edit "sv_rpchat" in chat!
 In the "sv_rpchat" look for [ local roleStr ] which there is two of, on line 98 and 256 and replace those two lines with this exact same thing,
