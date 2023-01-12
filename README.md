@@ -1,4 +1,6 @@
 # F5/K-Menu Installation 
+This Script Is Locked With CFX KeyMaster
+
 
 ## Add These Into Your "server.cfg"
 ```lua
